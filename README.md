@@ -30,9 +30,4 @@ Além disso, a interface intuitiva e o design moderno garantem uma experiência 
 
 - **Sistema de Notificações**: O cliente recebe notificações de confirmação de agendamento, enquanto os barbeiros recebem lembretes sobre horários agendados.
 
-## **Como Rodar o Projeto**
-
-1. **Clonar o Repositório**
-
-   ```bash
    
